@@ -1,2 +1,9 @@
 # my-instagram
-Elegant my-instagram tool
+
+## Overview
+Elegant my-instagram tool for interacting with Instagram's API.
+
+## Features
+- Post management
+- User authentication
+- Media handling
